@@ -1,0 +1,6 @@
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\bin\Debug\MaxCDAloritmo.dll
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\bin\Debug\MaxCDAloritmo.pdb
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\obj\Debug\MaxCDAloritmo.csproj.AssemblyReference.cache
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\obj\Debug\MaxCDAloritmo.csproj.CoreCompileInputs.cache
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\obj\Debug\MaxCDAloritmo.dll
+C:\Users\jbrq9\OneDrive\Escritorio\abcd\MaxCDAloritmo\MaxCDAloritmo\obj\Debug\MaxCDAloritmo.pdb
