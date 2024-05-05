@@ -1,0 +1,22 @@
+import unittest
+
+def Calcule_dos(a, b):
+    while(b):
+            a, b = b, a % b
+    return a
+
+def Calcule_cuatro(a, b, c, d):
+    maxcd_a_b = Calcule_dos(a, b)  
+    maxcd_c_d = Calcule_dos(c, d) 
+    return Calcule_dos(maxcd_a_b, maxcd_c_d)
+
+
+class TestCalcular_mcd_cuatro_numeros(unittest.TestCase):
+    def test_Calcule_cuatro(self):
+        self.assertEqual(Calcule_cuatro(12, 24, 36, 48), 12)
+        self.assertEqual(Calcule_cuatro(15, 30, 45, 60), 15)
+        self.assertEqual(Calcule_cuatro(18, 36, 54, 72), 18)
+        self.assertEqual(Calcule_cuatro(7, 14, 21, 28), 7)
+
+if __name__ == '__main__':
+    unittest.main()
